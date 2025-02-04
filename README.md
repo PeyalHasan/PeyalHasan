@@ -1,7 +1,7 @@
+(https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ)
 ### Hi there 👋, I'm Peyal Hasan👨‍💻
 #### 💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner
-![💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner](https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ)
-
+![💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner]
 Hi, I’m Peyal! I'm passionate about web development and currently on a journey to become a skilled developer. With a focus on HTML, CSS, and JavaScript, I'm dedicated to building user-friendly, efficient websites. My interest doesn't stop at front-end development—I’m also exploring technologies like React, Node.js, and MongoDB to enhance my full-stack development skills
 
 Skills: REACT / JS / HTML / CSS/Tailwind
