@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ)
+![💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner](https://media.licdn.com/dms/image/v2/D5616AQHXUNIMyAFSuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686998585?e=1744243200&v=beta&t=mAKDkfSdTkw6VGqxo_Kxl9jcxiCAlkG6zKoNSogdMcQ)
 ### Hi there 👋, I'm Peyal Hasan👨‍💻
 #### 💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner
 ![💡 Web Dev | ⚙️ AI Explorer | 🎯 Lifelong Learner]
